@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHG.Puzzles", "UHG.Puzzles\UHG.Puzzles.csproj", "{8A87C5DF-ADA1-49E2-8942-1F2056DEFF77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UHG.Tests", "UHG.Tests\UHG.Tests.csproj", "{62B5D94A-8F4D-45A0-B8D6-6FB8E0C58671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A87C5DF-ADA1-49E2-8942-1F2056DEFF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A87C5DF-ADA1-49E2-8942-1F2056DEFF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A87C5DF-ADA1-49E2-8942-1F2056DEFF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A87C5DF-ADA1-49E2-8942-1F2056DEFF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B5D94A-8F4D-45A0-B8D6-6FB8E0C58671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B5D94A-8F4D-45A0-B8D6-6FB8E0C58671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B5D94A-8F4D-45A0-B8D6-6FB8E0C58671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B5D94A-8F4D-45A0-B8D6-6FB8E0C58671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
